@@ -1,0 +1,9 @@
+streamlit>=1.50,<2.0
+pandas>=2.0,<4.0
+Pillow>=10.0,<13.0
+numpy>=1.26,<3.0
+opencv-python-headless>=4.9,<6.0
+# Model CNN (.keras, disimpan dengan Keras 3.13.2)
+keras>=3.13.2,<4.0
+# TensorFlow belum menyediakan paket untuk Python 3.14. Gunakan Python 3.10-3.13 (disarankan 3.12).
+tensorflow>=2.20,<3.0; python_version < "3.14"
