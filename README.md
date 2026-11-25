@@ -45,8 +45,9 @@ reports/                    # keluaran notebook (CSV metrik, grafik)
 Gunakan **Python 3.12** (TensorFlow belum mendukung 3.14).
 
 ```bash
-python3 -m venv .venv
-source .venv/bin/activate          # Windows: .venv\Scripts\activate
+py -3.12 -m venv C:\venvs\digitlens
+C:\venvs\digitlens\Scripts\activate
+python -m pip install --upgrade pip
 python -m pip install -r requirements.txt
 python -m streamlit run app.py     # buka http://localhost:8501
 ```
