@@ -3,8 +3,8 @@
 Project akhir Mata Kuliah Pembelajaran Mesin (ML2026).
 
 > **Isi bagian ini sebelum dikumpulkan**
-> - Kelas / Nama kelompok: `...`
-> - Anggota & NIM: `...` · `...` · `...`
+> - Kelas / Nama kelompok: `B / kel17 Digitlens`
+> - Anggota & NIM: `Riris Mulyanti Yusup-J0404241061` · `Syahrial Iskandar-J0404241075` · `Ahmad Faliansyah-J0404241110`
 > - Pembagian tugas: lihat bagian *Pembagian tugas* di bawah.
 
 ## Ringkasan
