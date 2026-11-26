@@ -100,9 +100,9 @@ Tambahkan gambar nyata milik kelompok ke `examples/testset/` (format `<angka>__<
 
 | Anggota | Tugas |
 |---|---|
-| `...` | `...` |
-| `...` | `...` |
-| `...` | `...` |
+| `Syahrial Iskandar` | `Pengelolaan dataset, EDA, dan preprocessing data` |
+| `Riris Mulyanti` | `Pengembangan model Machine Learning, evaluasi performa, dan integrasi sistem` |
+| `Ahmad Faliansyah` | `Pengembangan antarmuka dan fitur aplikasi, perancangan UI/UX, serta penyusunan dokumentasi proyek` |
 
 ## Referensi
 
